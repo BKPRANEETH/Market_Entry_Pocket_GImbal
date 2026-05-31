@@ -7,7 +7,7 @@
 
 ## 📌 Project Overview
 
-This project analyses whether **Vivo** — a top-3 smartphone brand in India with no camera hardware experience — should enter the **pocket gimbal camera market** targeting India's 85M+ creators with a product priced at ₹22,999.
+This project analyses whether **Vivo**  a top-3 smartphone brand in India with no camera hardware experience, should enter the **pocket gimbal camera market** targeting India's 85M+ creators with a product priced at ₹22,999.
 
 **The core finding:** There is a genuine, unoccupied gap in the ₹15,000–₹35,000 price band. DJI starts at ₹45,999. Insta360 at ₹39,999. No quality option exists below that. Vivo has the brand equity, retail network, and supply chain to own this segment.
 
@@ -72,7 +72,7 @@ Market_Entry_Pocket_GImbal/
 
 ## 💾 SQL Database
 
-The competitor database is a key differentiator of this project — built to demonstrate analytical rigour beyond a standard PowerPoint deck.
+The competitor database is a key differentiator of this project; built to demonstrate analytical rigour beyond a standard PowerPoint deck.
 
 **Schema covers:**
 - `competitors` — 7 brands, 15 columns including pricing, margins, social metrics
@@ -113,7 +113,7 @@ ORDER BY india_price_inr ASC;
 
 **Vivo should enter the pocket gimbal camera market in Q3 2026.**
 
-Priced at ₹22,999, Vivo would be the only quality pocket gimbal camera in India's fastest-growing price band. With existing retail, brand trust, and supply chain, this is an adjacent category move — not a leap. Break-even by Year 2 is achievable at modest volume.
+Priced at ₹22,999, Vivo would be the only quality pocket gimbal camera in India's fastest-growing price band. With existing retail, brand trust, and supply chain, this is an adjacent category move, not a leap. Break-even by Year 2 is achievable at modest volume.
 
 ---
 
