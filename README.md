@@ -1,7 +1,7 @@
 # 📷 Vivo Market Entry — Pocket Gimbal Camera India
 ### Consulting Portfolio Project | Gap Year Initiative | May 2026
 
-> **CV Description:** *"During my gap year, I identified a strategic market entry opportunity in India's creator economy and independently built a consulting-grade market study — including competitive analysis, SQL competitor database, financial modelling, and a full strategy deck — for a hypothetical Vivo pocket gimbal camera launch."*
+> **CV Description:** *"During my gap year, I identified a strategic market entry opportunity in India's creator economy and independently built a consulting-grade market study including competitive analysis, SQL competitor database, financial modelling, and a full strategy deck, for a hypothetical Vivo pocket gimbal camera launch."*
 
 ---
 
